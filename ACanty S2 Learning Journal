@@ -28,7 +28,8 @@ Dropdown Changes/Resizing UI Elements
 More of this UI unfamiliarity was shown when resizing the UI elemets to fit with the FullScreen resolution in Game Mode. In order to make them fit, resizing through the rect
 tool reduced the text quality and also didn't lead to consistant sizing, especially with the drop down selection, where the size didn't change, and led to undreadable options. 
 Going through layers and looking at another youtube tutorial, how to fill out options on a dropdown became clear to me, and through trial and error of rezing, looking closer at
-the inspector and scale function of the UI element, I could consistently utilise the new UI feature as I needed to. 
+the inspector and scale function of the UI element, I could consistently utilise the new UI feature as I needed to. This was a good remider to utilise trial and error when in the engine, and to look for 
+clearer solutions online, and in using both, and remebering unity fundementals (E.g. Inspector -> Scale), many of these setbacks are resolvable without taking uo too much time. 
 
 Slow Quality changes. 
 
