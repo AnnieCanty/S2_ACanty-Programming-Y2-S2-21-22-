@@ -1,3 +1,35 @@
 *S2_ACanty Programming Y2 S2 (21/22) Learning Journal*
 
 Template - Date, Task, Problems, Detailed Solution, Notes
+
+
+08/02/22
+Programming Package 1 - Full Menu System 
+
+Task - Following a tutorial to learn how to program and implement a settings menu as well as a main menu, quit function, level select and pause menu in Unity. 
+I had no prior knowledge of how to create a settings menu, or the unity it entails, so I predicted it would take longer to learn. 
+Having created and having the code examples of the main and pause menus, I was much more confident in the timing for this. 
+
+
+Problems
+
+Unfamiliarity of unity system
+When looking at the initial tutorial I had made the assumption that the UI elements of the tutorial would be included, and so I was unfamiliar with the 'Dropdown', 'Slider' and 'Toggle'
+elements of Unity UI, and was unsure of how to make them. This would not only involve more research into Unity UI (or the code equivalent if this information could not be found),
+it would also take more time from my esimate to familiarize myself with these, and find solutions outside of the tutorial planned. 
+
+In fixing this, I looked through the Unity Documentation, as well as looking closer at the Hierarchy_>Create UI and found what I was looking for. 
+I also compared the setup to the video to ensure what I would begin with was correct, and adjusted the sizing and placement of UI elements. Making these changes in Unity, 
+. It did take time from my initial estimate and did overrun in time, but also was a good learning oppourtunity to look into sources and ensure proper setup
+of proposed learning materials before beginning. 
+
+Dropdown Changes/Resizing UI Elements
+
+Slow Quality changes. 
+
+
+Solutions
+
+
+Additional Notes. 
+Timing/Estimate changes and discussion of other packages outside of the 3 hours. 
