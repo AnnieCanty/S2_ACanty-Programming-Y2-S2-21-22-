@@ -33,11 +33,15 @@ clearer solutions online, and in using both, and remebering unity fundementals (
 
 Slow Quality changes. 
 
+When watching the tutorial and completing the Quality change script, running the Dropdown selection of 'High, Medium, Low' in playmode, alongside the Player Settings -> Quality menu,
+the updates on the changing of quality was initially very slow. After double checking my scripts and showing a peer, and restarting the change, it sped up immensely, and was much clearer 
+that it was working. From this I learned to try/run my scripts more than once to allow them to fully initate and save so everything updates quickly. 
 
 Solutions
 
 
 Additional Notes. 
-All other aspects of making the sysem . my infamiliarity was the main cause of problems with this, but the investigation through unity documentation, looking in engine, and online reloved all of these
+All other aspects of making the sysem was done quickly and easy as a knew what to do and had reference from previous projects. I also added an information scene in order to explain the package to anyone using it. 
+My infamiliarity was the main cause of problems with this, but the investigation through unity documentation, looking in engine, and online reloved all of these
 without too much time spent on them, but I will have to keep unfamiliarity as a factor when looking at my other packages, my game, and future projects to give myself enough time to prepare.
-Timing/Estimate changes and discussion of other packages outside of the 3 hours. 
+Timing/Estimate changes and discussion of other packages outside during class, meant that I finished the full menu system of the initiala 3 hours, but was complete close to my estimate. 
