@@ -20,10 +20,15 @@ it would also take more time from my esimate to familiarize myself with these, a
 
 In fixing this, I looked through the Unity Documentation, as well as looking closer at the Hierarchy_>Create UI and found what I was looking for. 
 I also compared the setup to the video to ensure what I would begin with was correct, and adjusted the sizing and placement of UI elements. Making these changes in Unity, 
-. It did take time from my initial estimate and did overrun in time, but also was a good learning oppourtunity to look into sources and ensure proper setup
+it did take time from my initial estimate and did overrun in time, but also was a good learning oppourtunity to look into sources and ensure proper setup
 of proposed learning materials before beginning. 
 
 Dropdown Changes/Resizing UI Elements
+
+More of this UI unfamiliarity was shown when resizing the UI elemets to fit with the FullScreen resolution in Game Mode. In order to make them fit, resizing through the rect
+tool reduced the text quality and also didn't lead to consistant sizing, especially with the drop down selection, where the size didn't change, and led to undreadable options. 
+Going through layers and looking at another youtube tutorial, how to fill out options on a dropdown became clear to me, and through trial and error of rezing, looking closer at
+the inspector and scale function of the UI element, I could consistently utilise the new UI feature as I needed to. 
 
 Slow Quality changes. 
 
@@ -32,4 +37,6 @@ Solutions
 
 
 Additional Notes. 
+All other aspects of making the sysem . my infamiliarity was the main cause of problems with this, but the investigation through unity documentation, looking in engine, and online reloved all of these
+without too much time spent on them, but I will have to keep unfamiliarity as a factor when looking at my other packages, my game, and future projects to give myself enough time to prepare.
 Timing/Estimate changes and discussion of other packages outside of the 3 hours. 
