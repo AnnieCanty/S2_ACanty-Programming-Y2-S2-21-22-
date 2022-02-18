@@ -37,11 +37,38 @@ When watching the tutorial and completing the Quality change script, running the
 the updates on the changing of quality was initially very slow. After double checking my scripts and showing a peer, and restarting the change, it sped up immensely, and was much clearer 
 that it was working. From this I learned to try/run my scripts more than once to allow them to fully initate and save so everything updates quickly. 
 
-Solutions
-
 
 Additional Notes. 
 All other aspects of making the sysem was done quickly and easy as a knew what to do and had reference from previous projects. I also added an information scene in order to explain the package to anyone using it. 
 My infamiliarity was the main cause of problems with this, but the investigation through unity documentation, looking in engine, and online reloved all of these
 without too much time spent on them, but I will have to keep unfamiliarity as a factor when looking at my other packages, my game, and future projects to give myself enough time to prepare.
 Timing/Estimate changes and discussion of other packages outside during class, meant that I finished the full menu system of the initiala 3 hours, but was complete close to my estimate. 
+
+
+
+
+
+
+
+
+
+15/02/22
+Programming Package 2 - UI, Line Renderer Waypoint System (2D) 
+
+Task - Looking closer at line renderer in order to create a point from a player to their goal point. 
+This line updates as they get closer. When they get close enough to their goal, it switches to the next target. 
+This would be useful for a map system and a way to guide player's to their next objective.
+
+Problems
+
+The only major problem I had with this task was the starting point, in which I didn't fully understand the line renderer, and my proposed tutorial did not 
+function the way I wanted it to (It reffered to Waypoint in AI, as opposed to Wayfinding/UI). Knowing this, I looked for other tutorials in addition
+to the Unity Documentation, which was very helpful in allowing me to understand the line renderer. Now, able to grasp the concept, a peer in the class
+was able to go through and solve the problems with me, in order to construct the package. It was well understood and took less than than anticipated, with
+no other major issues then how to begin the process, for which I reached out and researched, explanding my understanding of the area of the Unity engine and programming in general.
+
+Overall, I am very happy with the accessibility and speed of this project, coming in under my estimations, with no issues that reduced my ability to work on this. 
+With the help of Ramone, I now understand how to replicate and add to this in the future, and how users of the package can achieve this. 
+(Eg, next point appears after interaction with Point A)
+One important lesson from this is to have a better understanding and look over of the tutorial I plan to use, and to better utilize Unity documentation 
+to see what I can create. 
