@@ -77,7 +77,7 @@ to see what I can create.
 22/02/22
 Programming Package 3 - Scroll Rect (with Toggle)
 
-Task - Improve on an exisitnig tutorial and make it closer to game ready, with additional 
+Task - Improve on an exisitnig tutorial and make it closer to game ready, with additional toggle functionality.
 
 Problems 
 
@@ -92,7 +92,12 @@ In all, easy and quick
 Programming Package 4 - Quiz System (Multiple Choice)
 
 
-Task - 
+Task - Create a multiple choice quiz system using Unity UI and Canvas System. With additional functionality to adjust question numbers, as well as wording on questions
+and answers in engine.
+
 Problems
+
+As I have created dialogue systems and a slightly varied system like this, I had some experience with the UI and some of the processes involved.
+This is why I came into a very little amount 
 
 assigning correct answers
