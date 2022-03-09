@@ -74,6 +74,10 @@ One important lesson from this is to have a better understanding and look over o
 to see what I can create. 
 
 
+
+
+
+
 22/02/22
 Programming Package 3 - Scroll Rect (with Toggle)
 
@@ -81,12 +85,24 @@ Task - Improve on an exisitnig tutorial and make it closer to game ready, with a
 
 Problems 
 
-While this project was rather straight forward since I had done aspects of it before
+While this project was rather straight forward since I had created aspects of it before, which did not work well, based on canvas sizing etc. I used a new tutorial 
+and got through it quicker than expected, but was not without an issue that impacted progress Part-way through. When the scroll function was not properly
+working, I looked over the formatting of my script and over the tutorial and scene setup to see if I missed anything. After being stuck for longer and unable to find anything,
+I asked for help and understood that the issue in my script arose from the spacing between ! and =, shown in the tutorial, now learning that != is its own function
+of 'Not Equal to', which was useful to know for future reference. Knowing this, the fix and completion of the main scroll function was complete very quickly.
 
-I had to look at some old scripts for the set active
-Function =! of its own
+Next, I wanted to also add a toggle function as it would be helpful for actual devleopment, as the scroll function is not commonly used all the time in a game.
+I, however couod not exactly remember how to do this, and wanted to avoid impacting other scripts by making my best guess,
+but looking over my old scripts and the unity documentation to remind myself helped solved this quickly, and the package was complete. 
 
-In all, easy and quick
+Additionally, this is when problems with the Plastic/Unity Collaberation and lost material began to appear as backup functions changed, however, backups
+on my USB drive and home laptop helped prevent lost material myself. 
+
+
+
+
+
+
 
 4/03/22
 Programming Package 4 - Quiz System (Multiple Choice)
