@@ -98,6 +98,10 @@ and answers in engine.
 Problems
 
 As I have created dialogue systems and a slightly varied system like this, I had some experience with the UI and some of the processes involved.
-This is why I came into a very little amount 
+This is why I came into a very little amount of problems, but the one I did have was why the assigned answers were not registering as correct in my comments through
+(Debug.Log)on the console. After checking this over and looking through each panel assigned to the references, I looked at the script and was unable to find anything
+that could lead to this information being wrong. However, having completed a similar project, and using a tutorial, I looked over my project as well as rewatching the assignment
+aspects, and realised the problem. Being used to assigning elements 0-[Number in array], beggining with 0, I assigned my first answer (out of 2) as 0, instead of 1.
+This, however is not how the answers were meant to be assigned, beginning from 1 instead. Once I changed the answers to 1-2 depending on which is correct, the system worked perfectly.
 
-assigning correct answers
+I assumed this would take longer than it did, having problems with a similar system last year, however my experience and the mistakes taken last time helped me quicly find solutions and finish this well. 
