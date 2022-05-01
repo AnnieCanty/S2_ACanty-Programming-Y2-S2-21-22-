@@ -136,6 +136,8 @@ new project. Also, ensuring that scene setup for the menus (Using Unity Scene Ma
 This was more time consuming than any real issue, as is reflected in my time estimate altering for this. Testing each aspect in builds and assigning mixers to impact sound also came into play
 here, but it was not so much a problem to overcome, but a reminder of what I already knew, similarly with making assets and formulating them into a small game.
 
-One issue I did have, however was related to the line renderer, and what it does
-
-Making assets, edits with ramone
+One issue I did have, however was related to the line renderer, and what it does when it reaches it's first point. I aimed for it to open the quiz system and 
+ask the player varying numbers of questions as part of the main game mechanic. When trying to complete this function, errors in the form of the QuizManager not registering 
+any changes or updating the questions moving from place to place. To fix this, I reached out to Ramone for support on this, and we worked to create a new Quiz Manager for each target point 
+from the line renderer, Quiz Manager Point A and Quiz Manager Point B, and assigned each question set accordingly, which fixed the problem and worked well from a design point of view, in keeping
+the questions and their location in control. This was solved quickly. Now in adjusting movement speed and assigning content, the game is ready to play. 
