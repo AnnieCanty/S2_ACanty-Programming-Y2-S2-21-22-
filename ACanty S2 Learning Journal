@@ -121,3 +121,21 @@ aspects, and realised the problem. Being used to assigning elements 0-[Number in
 This, however is not how the answers were meant to be assigned, beginning from 1 instead. Once I changed the answers to 1-2 depending on which is correct, the system worked perfectly.
 
 I assumed this would take longer than it did, having problems with a similar system last year, however my experience and the mistakes taken last time helped me quicly find solutions and finish this well. 
+
+
+14/03/22-04/04/22
+Game Setup and Implementation 
+
+
+Task - Create a 2D Unity Project, add and ensure packages work together. Set up as a game.
+
+Problems
+
+My problems for this stage of the project were minimal, but with one issue I faced being the UI setup and relinking of assets to their OnClickEvent() counterparts in a 
+new project. Also, ensuring that scene setup for the menus (Using Unity Scene Management) corresponded with the int OnClickEvent assigned to the individual buttons. 
+This was more time consuming than any real issue, as is reflected in my time estimate altering for this. Testing each aspect in builds and assigning mixers to impact sound also came into play
+here, but it was not so much a problem to overcome, but a reminder of what I already knew, similarly with making assets and formulating them into a small game.
+
+One issue I did have, however was related to the line renderer, and what it does
+
+Making assets, edits with ramone
